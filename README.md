@@ -49,3 +49,6 @@ A full-featured real-time chat application built with the MERN stack and Socket.
    ```bash
    git clone https://github.com/your-username/chat-app.git
    cd chat-app
+
+### Screenshots 
+<img width="1333" height="616" alt="image" src="https://github.com/user-attachments/assets/a31298cc-982e-4f40-84ec-48e2ea50dbc5" />
